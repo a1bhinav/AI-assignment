@@ -1,0 +1,12 @@
+Enter the number of students
+3
+Enter the number of subjects
+3
+Enter the number of groups you want to have
+2
+Enter the marks of 1th student
+56 77 90
+Enter the marks of 2th student
+87 55 79
+Enter the marks of 3th student
+90 76 88

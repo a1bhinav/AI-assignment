@@ -1,0 +1,29 @@
+Enter the total number of sticks: 14
+
+Player 1 is the AI
+Select the game mode:
+1. AI vs AI
+2. AI vs Human
+Enter the game mode: 2
+
+TOSS....
+HEADS or TAILS: Enter 0 for HEADS and 1 for TAILS: 1
+Flipping the coin.....
+It's TAILS
+You won the toss
+You will play the first turn
+Remaining Sticks: 14
+Number of sticks you want to remove: 3
+Remaining Sticks: 11
+Player2: Number of sticks removed by AI: 2
+Remaining Sticks: 9
+Number of sticks you want to remove: 2
+Remaining Sticks: 7
+Player2: Number of sticks removed by AI: 2
+Remaining Sticks: 5
+Number of sticks you want to remove: 1
+Remaining Sticks: 4
+Player2: Number of sticks removed by AI: 3
+Remaining Sticks: 1
+Number of sticks you want to remove: 1
+Second Player Wins

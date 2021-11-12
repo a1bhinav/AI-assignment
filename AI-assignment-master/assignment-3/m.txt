@@ -1,0 +1,35 @@
+for(int i=0;i<populi->population_size;i++)
+	{
+
+		for(int j=0;j<k;j++)
+		{
+			vector <int> temp;
+
+			for(int l=0;l<n;l++)
+			{
+				if(populi->cluster_list[i][l]==j)
+				{
+					temp.push_back(l);
+				}
+			}
+
+			//cout<<"hello"<<i<<"\n";
+
+			int tool=0;
+
+			for(int l=0;l<temp.size();l+=2)
+			{
+				int sum=0;
+
+				for(int t=0;t<m;t++)
+				{
+					sum=sum+(arr[temp[l+1]][t]-arr[temp[l]][t]);
+				}
+
+				tool=tool+sum;
+			}
+
+			populi->fitness_value[i]=populi->fitness_value[i] + tool;
+
+		}
+	}

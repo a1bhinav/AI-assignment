@@ -1,0 +1,12 @@
+Question: Cluster a collection of k students into n groups on the basis of marks in  m subjects.
+
+Algorithm to use: Genetic Algorithm.
+
+
+Ideas:
+
+	1. Can cluster on the basis of average marks of each student in the overall m subjects.
+
+	2. Can cluster on the basis of highest/lowest marks of each student among all the subjects.
+
+	3.  
